@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://muyun.me
+url: http://blog.luxcm.com
 date_format: "ordinal"
 title: 夏日
 subtitle: "金风玉露一相逢 便胜却人间无数"
-description: "夏 的个人博客"
-keywords: xia, muyun
+description: "个人博客"
+keywords: xia, luxcm
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,11 +16,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: XIA
+author: luxcm
 organization: Sogou, Inc.
 organization_url: https://www.sogou.com
 location: Shanghai, China
-email: 2926563472@qq.com
+email: yaojie@luxcm.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,12 +77,12 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: muyun-xia/muyun-xia.github.io
+repository: luxcm/luxcm.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: muyun-xia
+github_username: luxcm
 #douban_username: freedim
 #facebook_username: mzlogin
 #weibo_username: mzlogin

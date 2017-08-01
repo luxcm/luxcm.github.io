@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: muyun, xia
+keywords: luxcm, xia
 comments: true
 menu: 关于
 permalink: /about/
@@ -17,7 +17,7 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@muyun-xia](https://github.com/muyun-xia)
+* GitHub：[@luxcm](https://github.com/luxcm)
 
 
 
